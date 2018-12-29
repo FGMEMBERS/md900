@@ -95,7 +95,7 @@
 
 			<!-- fix me: set back for now -->
 
-			<x-m>-3.480</x-m>
+			<x-m>-3.475</x-m>
 
 			<y-m>0.421</y-m>
 
@@ -217,7 +217,7 @@
 
 		<offsets>
 
-                        <x-m>-3.475</x-m>
+                        <x-m>-3.470</x-m>
                         <y-m>0.217</y-m>
                         <z-m>1.580</z-m>
 			<pitch-deg>-14.4</pitch-deg>
@@ -225,6 +225,8 @@
 		</offsets>
 
 	</model>
+	<!--
+	
         <model>
 
 		<name>VOR2</name>
@@ -245,7 +247,7 @@
 		</offsets>
 
 	</model>
-
+    -->
 
 	<model>
 
@@ -325,7 +327,7 @@
 
                         <x-m>-3.500</x-m>
                         <y-m>0.0</y-m>
-                        <z-m>1.700</z-m>
+                        <z-m>1.725</z-m>
 			<pitch-deg>-14.4</pitch-deg>
 
 
@@ -379,20 +381,7 @@
 
 	</model>
 
-
-
-
-
-	<!--copilot's instruments-->
-
-
-
-
-
-
-
-
-
+<!--
 	<model>
 
 		<name>left ALT</name>
@@ -400,8 +389,6 @@
 		<path>Aircraft/md900/Models/instrumentation/alt2/altimeter.xml</path>
 
 		<offsets>
-
-			<!-- fix me: set back for now -->
 
 			<x-m>-3.490</x-m>
 
@@ -416,9 +403,9 @@
 		</offsets>
 
 	</model>
+-->
 
-
-
+<!--
 	<model>
 
 		<name>left VSI</name>
@@ -426,8 +413,6 @@
 		<path>Aircraft/md900/Models/instrumentation/vsi/vsi.xml</path>
 
 		<offsets>
-
-			<!-- fix me: set back for now -->
 
 			<x-m>-3.470</x-m>
 
@@ -442,7 +427,7 @@
 		</offsets>
 
 	</model>
-
+-->
 
         <model>
 
